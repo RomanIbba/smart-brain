@@ -3,8 +3,11 @@
 To use:
 
 Clone this repo
+
 Run npm install
+
 Run npm start
+
 Note: You must add your own API key in the src/App.js file to connect to Clarifai.
 
 Functionality:
